@@ -1,0 +1,29 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    margin-top: 5rem;
+}
+
+a img{
+ width: 9rem;
+}
+
+.rosado{
+    background-color: #E83E8C;
+    color: #E83E8C;
+}
+
+footer img{
+    width: 2.5rem;
+}
+
+@media (max-width:991px){
+
+    #pago{
+        display: none;
+    }
+}
+
+
